@@ -1,7 +1,7 @@
 /*
 CIS 2542
 Professor   : Bradley Sward
-Assignment	: 02 Space Ship Mass (Review)
+Assignment	: 02 Calixtus sequence
 Description : Using the Calixtus sequence, the program will determine the
 		first 100 values in the sequence. Once done, the program will display the
 		values to the user, as well as write the values to a .txt file
